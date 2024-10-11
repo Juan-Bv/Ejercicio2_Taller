@@ -15,7 +15,7 @@ public class Clase_Automovil {
     private String colorAuto; // Creé esta variable para almacenar el color del automóvil
     private int velocidadActual; // Creé esta variable para almacenar la velocidad actual del automóvil
 
-    // Constructor que inicializa los atributos del automóvil
+    // Cree un constructor que inicializa los atributos respecto al automóvil
     public Clase_Automovil(String marcaAuto, int modeloAuto, int tipoMotor, String tipoCombustible, String categoriaAuto, int puertasAuto, int asientosAuto, int velocidadMaxima, String colorAuto) {
         this.marcaAuto = marcaAuto; // Asigné la marca del automóvil
         this.modeloAuto = modeloAuto; // Asigné el modelo del automóvil
